@@ -1,0 +1,29 @@
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.exe
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.pdb
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.xml
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.Follower.resources
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.Resources.resources
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.vbproj.GenerateResource.Cache
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.exe
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.xml
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.pdb
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.exe.manifest
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.application
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.exe.manifest
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.application
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.exe
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.xml
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.pdb
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.exe.config
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.exe.manifest
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.application
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.exe
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.pdb
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\bin\Release\FolderdateFollowsFiles.xml
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.Follower.resources
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.Resources.resources
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.vbproj.GenerateResource.Cache
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.exe.manifest
+C:\Users\S\Documents\Visual Studio 2008\Projects\FolderdateFollowsFiles\FolderdateFollowsFiles\obj\Release\FolderdateFollowsFiles.application

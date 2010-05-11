@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="FolderdateFollowsFiles.exe" version="1.0.0.5" publicKeyToken="1877dbb30588371d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FolderdateFollowsFiles" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FolderdateFollowsFiles.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FolderdateFollowsFiles.exe" size="20480">
+      <assemblyIdentity name="FolderdateFollowsFiles" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>/w8X9+j7SfJGEw0tC7IgrhW3ZbE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FolderdateFollowsFiles.exe.config" size="1322">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k4SuuGQ+o+eB+gq4z5o1w1Do2ZQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Sbox\S" issuerKeyHash="5e07ca4a83e23c7dfec51d6e35f2e5c353e29f27" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pCtEMHBFvmii6NgeYcKPqoDQWRo=</DigestValue></Reference></SignedInfo><SignatureValue>PcdrVkcBqz7mpF2BywLy8d69xPz37CZTinIihSXMK4+SyGQ0wCaK/wdhxelzRdXILGDO/liTsiFKGsHzWMP6M/yWY/wVJU88L7No0zgEk43b/akJVp0+DC1h+mMEu2scxG5OkN6uiMjThXGppw9RthgWEQkr0W/VUoAgP/f6sls=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vgVGCoYZ/evg1PB7po2ZvjfDSX2AJ2sf8441gw4nWFvF+y2ROfk6/7+f3cUQaDolVtcYGzoNld7YkT+SmN3gKp4IbKDzWP7DHx4lUXslFiH2HOzuTTFF5NztVnzCi4tRs7MDck3a2hQqO8ER3EopZ38W2HfgQdBIVliOMOEtuIM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1a59d080aa8fc2611ed8e8a268be457030442ba4" Description="" Url=""><as:assemblyIdentity name="FolderdateFollowsFiles.exe" version="1.0.0.5" publicKeyToken="1877dbb30588371d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Sbox\S</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>28e8sIK8HcAGg8SWlOqaCXiRVOI=</DigestValue></Reference></SignedInfo><SignatureValue>jDhEFtwzMc8p1HHmpMRFNHWwOGo9t+bZj0DMOBr+nb18PiYB9L3j9NlGecLy7My6Xzstom84sQ1O73ksRs2uWrqJ27qwwP7rZxMRXkaoB4IceROGU1oiGT5JkIzw4NAKxsuS3XE1pCvYHOqUpcNIsx0KjSvN9xX7elDQ0De0VOg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vgVGCoYZ/evg1PB7po2ZvjfDSX2AJ2sf8441gw4nWFvF+y2ROfk6/7+f3cUQaDolVtcYGzoNld7YkT+SmN3gKp4IbKDzWP7DHx4lUXslFiH2HOzuTTFF5NztVnzCi4tRs7MDck3a2hQqO8ER3EopZ38W2HfgQdBIVliOMOEtuIM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBsTCCARqgAwIBAgIQsr1YADONSJdBFMbHX0JnvDANBgkqhkiG9w0BAQUFADAXMRUwEwYDVQQDHgwAUwBiAG8AeABcAFMwHhcNMDkwMjEzMjEzNzU1WhcNMTAwMjE0MDMzNzU1WjAXMRUwEwYDVQQDHgwAUwBiAG8AeABcAFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL4FRgqGGf3r4NTwe6aNmb43w0l9gCdrH/OONYMOJ1hbxfstkTn5Ov+/n93FEGg6JVbXGBs6DZXe2JE/kpjd4CqeCGyg81j+wx8eJVF7JRYh9hzs7k0xReTc7VZ8wouLUbOzA3JN2toUKjvBEdxKKWd/Fth34EHQSFZYjjDhLbiDAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAV/GS/X3G6dVusPUXsZ1Uvp07X1nutS+ZcQBNqGS9ZeFPgIgwCmTwJEVYbbuus37T4H9jiKu1ayGfdL7LZ60Ko7GYqX5P/M82Vu6hL8cS7R/mpFRzeCarwTD4ctHZyrRWLPyVD4/BM+pdCdmcsBrziC4RYFXT7+xpRF3rVD74vZY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,10 @@
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Debug\FolderdateFollowsFiles.exe
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Debug\FolderdateFollowsFiles.pdb
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\bin\Debug\FolderdateFollowsFiles.xml
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.Resources.resources
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.vbproj.GenerateResource.Cache
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.exe
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.xml
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.pdb
+C:\Users\S\AppData\Local\Temporary Projects\FolderdateFollowsFiles\obj\Debug\FolderdateFollowsFiles.Follower.resources
